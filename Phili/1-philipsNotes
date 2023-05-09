@@ -1,0 +1,80 @@
+ carousel classes +++++++++++++++++
+
+ to get any slider
+ 1) #carouselExampleSlidesOnly
+ .carousel
+ .slide
+ .carousel-inner
+ .carousel-item
+ .active
+
+2) carousel width control
+.carousel-control-prev
+.carousel-control-prev-icon
+.carousel-control-next
+.carousel-control-next-icon
+
+3) carousel with indicators
+.carousel-indicators
+
+4) carousel width caption
+.carousel-caption
+
+5) carousel With crossFade 
+.carousel-fade
+
+6) carousel With Interval 
+.data-bs-Interval = "10000"
+
+7) Disable Touch Swiping
+.data-bs-Interval = "false",
+.data-bs-touch = "false
+
+8) carousel Dark Varient
+.carousel-Dark
+
+
+
++++++++++++++++++++++++++++++++++ 
+card classes 
+
+.card ------------------------
+.card-img-top (curve from top)
+.card-img-bottom
+.card-body
+.card-title
+.cart-text(to paraghtaph)
+.btn
+.btn-primary
+
+
+card without image ------------
+
+.card-body
+.card-title
+.card-subtitle
+.card-link
+
+
+card with image ----------------
+
+.card 
+.card-image-top
+.card-body
+.card-text
+
+
+
+card list classes ---------------
+
+
+.card-header
+.list-group
+.list-group-flush(with group i will not work)
+.list-group-item
+.card-footer
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
+
+gutter++++++++++++
+it create gap between row and column

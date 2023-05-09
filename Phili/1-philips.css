@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+.logo-image {
+    width: 150px;
+}
+
+
+.one{
+    font-size: 7px;
+    width: 20px;
+}
